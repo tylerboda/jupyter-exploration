@@ -1,1 +1,1 @@
-# jupyter-exploration
+jupyter exploration
